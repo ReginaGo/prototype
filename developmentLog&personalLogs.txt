@@ -1,0 +1,112 @@
+﻿23 de agosto de 2024
+* Actividad: Sesión inicial de brainstorming para definir el enfoque del proyecto.
+   * Se discutió la importancia de la salud mental en el marco de los Objetivos de Desarrollo Sostenible (ODS).
+   * Decidimos crear una plataforma web centrada en la concientización sobre salud mental, intervención temprana y recursos accesibles.
+* Desafíos: Definir el alcance adecuado del proyecto dentro del marco del ODS.
+* Solución: Acordamos centrarnos en tres pilares: concientización, recursos accesibles y un tablero de seguimiento emocional para usuarios.
+________________
+
+
+26 de agosto de 2024
+* Actividad: Investigación de plataformas similares y definición de tecnologías a usar (HTML y CSS).
+   * Se analizaron sitios web de organizaciones como la OMS y la ONU para extraer ideas de diseño y contenido.
+   * Se definieron las secciones principales de la plataforma: Inicio, Recursos, Seguimiento Emocional, y una biblioteca de artículos/videos.
+* Desafíos: Decidir el formato para mostrar el contenido educativo sobre salud mental.
+* Solución: Optamos por infografías interactivas y un sistema de clasificación para los recursos (artículos, videos, autoayuda).
+________________
+
+
+29 de agosto de 2024
+* Actividad: Creación de wireframes y prototipos del diseño de la web.
+   * Se crearon prototipos individuales de la interfaz y se revisaron en equipo.
+   * Se decidió el esquema de color y la tipografía para asegurar accesibilidad y estética adecuada.
+* Desafíos: Integrar diferentes ideas de diseño en un solo prototipo.
+* Solución: Cada miembro presentó su prototipo y se consolidaron las mejores ideas en un diseño unificado.
+________________
+
+
+1 de septiembre de 2024
+* Actividad: Inicio del desarrollo del front-end en HTML y CSS.
+   * Estructuramos la página de inicio, asegurándonos de implementar una navegación clara y amigable para el usuario.
+   * Se creó la estructura básica del formulario para el seguimiento emocional.
+* Desafíos: Adaptar el diseño a una estructura de código limpio y manejable.
+* Solución: Se aplicaron principios de diseño modular, dividiendo cada sección en componentes individuales para facilitar el desarrollo y la colaboración.
+________________
+
+
+4 de septiembre de 2024
+* Actividad: Desarrollo avanzado en CSS para darle estilo a las secciones principales.
+   * Se implementaron los estilos para el menú de navegación, el encabezado y las secciones de recursos.
+   * Se añadieron algunos componentes interactivos (infografías y botones animados).
+* Desafíos: Hacer el diseño completamente responsivo.
+* Solución: Empezamos a usar media queries en CSS para asegurar que el sitio funcione en diferentes dispositivos.
+________________
+
+
+7 de septiembre de 2024 (Hoy)
+* Actividad: Finalización del proyecto desde las 7 AM.
+   * 7:00 AM - 9:00 AM: Ajustes finales en HTML y CSS, enfocándonos en la responsividad del diseño.
+   * 9:00 AM - 11:00 AM: Implementación completa del sistema de clasificación para los recursos (artículos, videos, autoayuda).
+   * 11:00 AM - 2:00 PM: Verificación de compatibilidad en distintos navegadores y dispositivos.
+   * 2:00 PM - 4:00 PM: Revisión final del contenido y pruebas de usabilidad.
+   * 4:00 PM - 6:00 PM: Documentación del proyecto y preparación para la entrega final.
+* Desafíos: Últimos ajustes de responsividad y asegurar que todas las secciones del sitio web carguen correctamente.
+* Solución: Realizamos pruebas intensivas en diferentes dispositivos y navegadores, resolviendo errores menores en la visualización de la página.
+
+
+
+
+
+
+Personal Log - Regina Gómez Padilla
+Fecha: 7 de septiembre de 2024
+________________
+
+
+Autoevaluación del Trabajo Personal
+Durante el proyecto, me enfoqué principalmente en la organización y desarrollo del diseño visual del sitio. Desde el inicio, propuse un esquema de color accesible y atractivo, y me aseguré de que las páginas fueran completamente responsivas. Me encargué de implementar las media queries en CSS para que la plataforma funcionara en móviles, tablets y desktop sin problemas. También trabajé en la creación de los wireframes y la estructura inicial de las secciones de recursos y seguimiento emocional.
+Además, estuve revisando los prototipos propuestos por el equipo y consolidé los mejores elementos de cada uno para crear un diseño unificado. A lo largo del proyecto, me aseguré de que todos los componentes visuales estuvieran bien integrados y mantuvieran una coherencia estética.
+Reflexión sobre el Trabajo del Equipo
+El equipo colaboró de manera efectiva. Fátima se enfocó en la investigación y en aportar contenido educativo para la página, mientras que Carlos estuvo a cargo de la estructura de HTML. Nos complementamos bien, aunque en algunas ocasiones fue necesario mediar para alinear las ideas de diseño. Aun así, creo que trabajamos bien juntos y logramos un proyecto sólido.
+________________
+
+
+
+
+
+
+
+
+
+
+Personal Log - José Carlos Béjar Gómez
+Fecha: 7 de septiembre de 2024
+________________
+
+
+Autoevaluación del Trabajo Personal
+Mi rol en el proyecto se centró principalmente en la estructura del código HTML y la implementación de los formularios y secciones interactivas. Desarrollé la estructura básica del sitio web y creé la interfaz para el seguimiento emocional. Me aseguré de que el código fuera limpio y bien organizado, facilitando el trabajo en equipo.
+En la parte final, colaboré estrechamente con Regina para integrar las media queries y ajustar algunos detalles en la responsividad del sitio. También participé en la prueba final del sitio para asegurar que funcionara correctamente en diferentes navegadores.
+Reflexión sobre el Trabajo del Equipo
+El equipo trabajó de manera eficiente, especialmente Regina, quien llevó la mayor carga del diseño y la implementación del CSS responsivo. Fátima también contribuyó con contenido valioso, lo que nos permitió enfocarnos en la estructura técnica. La colaboración fue clave para terminar el proyecto a tiempo y con buen resultado.
+________________
+
+
+
+
+
+
+
+
+
+
+Personal Log - Fátima Sofía Walls Fernández
+Fecha: 7 de septiembre de 2024
+________________
+
+
+Autoevaluación del Trabajo Personal
+Mi principal aporte al proyecto fue en la investigación y desarrollo del contenido educativo relacionado con la salud mental. Me aseguré de que toda la información fuera precisa y estuviera alineada con los Objetivos de Desarrollo Sostenible (ODS). También redacté varios de los textos de la página y ayudé en la creación de las infografías interactivas.
+Aunque no participé tanto en el desarrollo técnico, revisé el contenido final y sugerí ajustes en la estructura de la biblioteca de recursos.
+Reflexión sobre el Trabajo del Equipo
+Regina fue fundamental en el desarrollo del diseño y la implementación técnica, especialmente en la responsividad. Carlos hizo un excelente trabajo organizando la estructura del sitio y desarrollando los formularios. En conjunto, el equipo funcionó bien y logramos un resultado final satisfactorio.
