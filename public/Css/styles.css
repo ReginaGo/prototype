@@ -1,7 +1,21 @@
 html {
     scroll-behavior: smooth;
 }
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
 
+
+.sidebar {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 60px;
+    background-color: #f8f9fa;
+    overflow-y: auto;
+}
 .image-container {
     position: relative;
     width: 70%;
